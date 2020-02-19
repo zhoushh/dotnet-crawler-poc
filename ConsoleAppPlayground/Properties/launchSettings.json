@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleAppPlayground": {
+      "commandName": "Project",
+      "commandLineArgs": "arg0 arg1 arg2"
+    }
+  }
+}

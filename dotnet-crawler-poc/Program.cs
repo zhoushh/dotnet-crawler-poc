@@ -1,4 +1,7 @@
 ﻿using System;
+using System.IO;
+using System.Net;
+using System.Text;
 
 namespace dotnet_crawler_poc
 {
@@ -6,7 +9,7 @@ namespace dotnet_crawler_poc
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
         }
     }
 }
